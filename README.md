@@ -96,7 +96,7 @@ Now that you have cloned the project repository, you can run the project in a Ju
 6. **Continue executing cells until you reach the end of the project or until you have completed the desired portion of the adventure.**
    
 ## License
-Uni Portal is released under the [MIT License](LICENSE).
+Enchanted Forest Treasure Hunt is released under the [MIT License](LICENSE).
 
 ## Contact
 If you have any questions, or feedback, or just want to get in touch, feel free to reach out via email:
